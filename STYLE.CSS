@@ -1,0 +1,151 @@
+@charset "utf-8";
+/* CSS Document */
+BODY{
+	background-image: url("SLIDER/ASSETS/3.png")
+		
+
+
+
+
+
+}
+.logo{
+	margin-left: 150px;
+	margin-top: -40px;
+	user-select: none;
+}
+.links a{
+	text-decoration: none;
+	color: white;
+	 word-spacing: 200px;
+	margin-left: 50px;
+	font-size: 27px;
+	font-weight: 600;
+	font-family: "Agency FB";
+	
+}
+.links a:hover{
+	color: #F4924B;
+	transition: 0.3s;
+}
+
+.links{
+	margin-left: 1100px;
+	margin-top: -160px;
+	user-select: none;
+}
+.links button{
+	margin-left: 50px;
+	margin-top: -8px;
+	width: 130px;
+	height: 44px;
+	position: absolute;
+	border: none;
+	transition: 0.2s ease-in;
+	border-radius: 20px;
+	background-color: #F4924B;
+	font-weight: 1000px;
+	font-size: 18px;
+	color: white;
+	
+} 
+.links button:hover {
+border: 3px solid #F4924B;
+	color: white;
+	background-color: transparent;
+	font-weight: 700px;
+	cursor: pointer;
+	user-select: none;
+}
+h2{
+	color:#F4924B;
+	font-family: "Agency FB";
+	margin-left: 770px;
+	margin-top: 230px;
+	font-size: 80px;
+	user-select: none;
+}
+h1{
+	color: white;
+	font-family: "Agency FB";
+	margin-left: 580px;
+	margin-top: -100px;
+	font-size: 170px;
+	user-select: none;
+	
+	
+}
+#line_1{
+	width: 500px;
+	margin-top: -130px;
+	
+}
+#line_2{
+	width: 500px;
+	
+}
+
+	
+	
+	
+hr{
+	color:red;
+	background-color:red;
+}
+.new_btn{
+	margin-left: 590px;
+	margin-top: 20px;
+	
+}
+p{
+	color: white;
+	margin-left: 650px;
+	font-size: 30px;
+	font-weight: 700px;
+	margin-top: -2px;
+	user-select: none;
+	
+	
+}
+.btn_1{
+	border-radius: 25px;
+	width: 210px;
+	height: 70px;
+	font-size: 33px;
+	font-weight: 5000px; 
+	border: none;
+	background-color: #F4924B;
+	color: white;
+	cursor: pointer;
+	transition: 0.2s ease-in;
+	user-select: none;
+}
+.btn_1:hover {
+	border: 3px solid #F4924B;
+	color: white;
+	background-color: transparent;
+	font-weight: 700px;
+	cursor: pointer;
+	user-select: none;
+	
+	
+}
+.btn_2{
+	border-radius: 25px;
+	width: 190px;
+	height: 70px;
+	font-size: 33px;
+	font-weight: 5000px; 
+	border: 3px solid #F4924B;
+	background-color: transparent;
+	color: white;
+	cursor: pointer;
+	transition: 0.2s ease-in;
+	margin-left: 330px;
+	user-select: none;
+}
+.btn_2:hover{
+	background-color: #F4924B;
+	user-select: none;
+	
+}
